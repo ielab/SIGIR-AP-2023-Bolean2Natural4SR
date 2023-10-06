@@ -1,0 +1,444 @@
+{
+  "id": "CD007431",
+  "boolean": "(Back[mesh] OR spine[mesh] OR back[Title] OR lowback[Text Word] OR lumbar[Text Word] OR lumbal[Text Word] OR lumbo*[Text Word] OR sciatic[Text Word] OR spine[Text Word] OR spinal[Text Word] OR radicular[Text Word] OR \"nerve root\"[Text Word] OR \"nerve roots\"[Text Word] OR disk[Text Word] OR disc[Text Word] OR disks[Text Word] OR discs[Text Word] OR vertebra*[Text Word] OR intervertebra*[Text Word] OR sacroilia*[Text Word] OR Sacroiliac joint[mesh]) AND (Pain[mesh] OR pain[Text Word] OR ache*[Text Word] OR aching[Text Word] OR complaint*[Text Word] OR dysfunction*[Text Word] OR disabil*[Text Word] OR neuralgia[Text Word]) AND (\"straight leg raising\"[Text Word] OR lasegue[Text Word] OR \"bell test\"[Text Word] OR \"hyperextension test\"[Text Word] OR \"femoral nerve stretch test\"[Text Word] OR \"Reflex, stretch\"[mesh] OR slump[Text Word]) AND (Intervertebral disk displacement[mesh] OR polyradiculopathy[mesh] OR radiculopath*[All Fields] OR radiculiti*[All Fields]) AND (back pain[mesh] OR sciatica[mesh] OR \"back ache\"[Text Word] OR backache[Text Word] OR \"back pain\"[Text Word] OR dorsalgia[Text Word] OR lumbago[Text Word] OR sciatica[Text Word] OR ischias[Text Word] OR ischialgia[Text Word] OR lumboischialgia[Text Word] OR radiculalgia[Text Word]) AND (Physical examination[mesh] OR \"physical examination\"[All Fields] OR \"function test\"[All Fields] OR \"physical test\"[All Fields]) AND (Diagnostic errors[mesh] OR \"Diagnosis, differential\"[mesh] OR \"Reproducibility of results\"[mesh] OR Reference standards[mesh] OR \"Sensitivity and specificity\"[mesh] OR Comparative study[Publication Type] OR \"Evaluation Studies as Topic\"[mesh] OR Evaluation studies[Publication Type] OR Longitudinal studies[mesh] OR sensitivit*[All Fields] OR specificit*[All Fields] OR accura*[All Fields] OR likelihood ratio*[All Fields] OR predict*[All Fields] OR index test[All Fields] OR reference test[All Fields] OR pretest[Text Word] OR pre-test[Text Word] OR posttest[Text Word] OR post-test[Text Word] OR \"gold standard\"[All Fields] OR roc[Text Word] OR odds[Text Word] OR validity[All Fields] OR validation[All Fields] OR validate*[All Fields] OR validation studies[Publication Type] OR verif*[ti] OR evaluat*[ti] OR value*[ti] OR reference values[mesh] OR cutoff[All Fields] OR cut-off[All Fields] OR repeatability[All Fields] OR reproducibility[All Fields] OR efficacy[All Fields] OR reliability[All Fields] OR error*[Text Word] OR suitability[Text Word] OR utility[Text Word])",
+  "generated_query": [
+    "Diagnostic accuracy of different tests for assessing the low-back pain",
+    "Diagnostic accuracy of different tests in the diagnosis of low-back pain",
+    "Comparing diagnostic accuracy of physical examination tests and vertebral fracture for assessing the efficacy of different types of interventions in the treatment of low-back pain",
+    "Diagnostic accuracy of different tests for confirmation of low-back pain as the cause of chronic pain in adults",
+    "Diagnostic accuracy of different physical tests for low-back pain",
+    "Diagnostic accuracy of different tests for the non-invasive diagnosis of low-back pain",
+    "Comparing the quantity and quality of randomised placebo-controlled trials of antibiotics for acute respiratory, urinary, and skin and soft tissue infections",
+    "Diagnostic accuracy of the low-back pain radiographic test for assessing the interventions for treating low-back pain in people with chronic pain for more than 12 months",
+    "Red flags to screen for malignancy in low-back pain",
+    "Physical examination tests for assessing the diagnostic accuracy of a low-back pain with sciatica"
+  ]
+}
+{
+  "id": "CD008803",
+  "boolean": "(glaucoma[mesh] OR ocular hypertension[mesh] OR optic nerve diseases[mesh:noexp] OR optic disk[mesh:noexp] OR retinal ganglion cells[mesh:noexp] OR glaucoma*[Text Word] OR RNFL[Text Word] OR optic dis*[Text Word] OR retinal ganglion cell*[Text Word] OR ONH[Text Word] OR (retinal[Text Word] AND nerve[Text Word] AND fiber[Text Word] AND layer[Text Word]) OR (pressure[Text Word] AND ((increas*[Text Word] OR elevat*[Text Word] OR high*[Text Word] OR raise*[Text Word]) AND (ocular[Text Word] OR intraocular[Text Word] OR intra-ocular[Text Word]))) OR (retinal[Text Word] AND nerve[Text Word] AND fibre[Text Word] AND layer[Text Word]) OR (optic[Text Word] AND nerve*[Text Word] AND head[Text Word]) OR (OHT[Text Word] OR IOP[Text Word])) AND (ophthalmoscopy[mesh:noexp] OR Lasers[mesh:noexp] OR tomography, optical coherence[mesh:noexp] OR tomography, optical[mesh:noexp] OR enhanced corneal compensat*[Text Word] OR variable corneal compensat*[Text Word] OR OCT[Title/Abstract] OR GDx[Text Word] OR HRT[Title/Abstract] OR SLP[Text Word] OR VCC[Text Word] OR (optical[Text Word] AND coherence[Text Word] AND interferomet*[Text Word]) OR (Heidelberg[Text Word] AND Retina[Text Word] AND Tomograph*[Text Word]) OR (scan*[Text Word] AND laser*[Text Word] AND polarimetry[Text Word]) OR (confocal[Text Word] AND scan*[Text Word] AND laser[Text Word] AND ophthalm*[Text Word]) OR (optical[Text Word] AND coherence[Text Word] AND tomograph*[Text Word]))",
+  "generated_query": [
+    "Cyclodestructive procedures for refractory glaucoma"
+  ]
+}
+{
+  "id": "CD008782",
+  "boolean": "(Dementia[mesh] OR Cognition Disorders[mesh:noexp] OR Neurofibrils[mesh] OR Neurofilament Proteins[mesh:noexp] OR Senile Plaques[mesh:noexp] OR Neuropil Threads[mesh:noexp] OR MCI[Title/Abstract] OR SMC[Title/Abstract] OR LCD[Title/Abstract] OR AACD[Title/Abstract] OR MCD[Title/Abstract] OR ACMI[Title/Abstract] OR ARCD[Title/Abstract] OR AAMI[Title/Abstract] OR MD[Title/Abstract] OR MNCD[Title/Abstract] OR CIND[Title/Abstract] OR QD[Title/Abstract] OR BSF[Title/Abstract] OR (alzheimer*[Title/Abstract] OR dement*[Title/Abstract]) OR ((cognit*[Title/Abstract] OR memory[Title/Abstract] OR cerebr*[Title/Abstract] OR mental*[Title/Abstract]) AND (declin*[Title/Abstract] OR impair*[Title/Abstract] OR los*[Title/Abstract] OR deteriorat*[Title/Abstract] OR degenerat*[Title/Abstract] OR complain*[Title/Abstract] OR disturb*[Title/Abstract] OR disorder*[Title/Abstract])) OR (neurofilament[Title/Abstract] AND protein*[Title/Abstract]) OR (plaque*[Title/Abstract] AND (senile[Title/Abstract] OR amyloid[Title/Abstract] OR neuritic[Title/Abstract])) OR (neuropil[Title/Abstract] AND thread*[Title/Abstract]) OR (forgetful*[Title/Abstract] OR confused[Title/Abstract] OR confusion[Title/Abstract]) OR (neurofibril*[Title/Abstract] AND tangle*[Title/Abstract])) AND (Cerebrospinal Fluid[mesh:noexp] OR Blood-Brain Barrier[mesh:noexp] OR (cerebrospinal fluid*[Title/Abstract] OR csf[Title/Abstract] OR spinal fluid*[Title/Abstract]) OR (blood[Title/Abstract] OR plasma[Title/Abstract])) AND (Amyloid Beta-Protein[mesh] OR Peptide Fragments[mesh:noexp] OR ABPP[Title/Abstract] OR APP[Title/Abstract] OR beta*[Title/Abstract] OR Abeta*[Title/Abstract] OR amyloid[Title/Abstract] OR (beta[Title/Abstract] AND A4[Title/Abstract]) OR (amyloidogenic[Title/Abstract] AND (peptide*[Title/Abstract] OR protein*[Title/Abstract])) OR (Innotest[Title/Abstract] OR Inno-bia[Title/Abstract] OR Alzbio3[Title/Abstract]))",
+  "generated_query": [
+    "Innotest for the non\u2010invasive diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Cholinesterase inhibitors for dementia",
+    "Amyloid plaque in the brain of people with Alzheimer\u2019s disease",
+    "Innotest for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Amyloid beta\u2010protein in cerebrospinal fluid for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Inno-ba3 test for Alzheimer\u2019s disease dementia",
+    "Inno-Cog\u2122, an Alzheimer's disease dementia caregiver interventions for the primary caregiver",
+    "Innotest for Alzheimer's disease dementia",
+    "Cholesterol lowering in people with Alzheimer\u2019s disease",
+    "Blood-brain barrier for the prevention of Alzheimer\u2019s disease dementia"
+  ]
+}
+{
+  "id": "CD009647",
+  "boolean": "(Electric Impedance[mesh:noexp] OR Body Temperature Regulation[mesh:noexp] OR Sweating[mesh:noexp] OR Thermogenesis[mesh:noexp] OR Body Weight Changes[mesh:noexp] OR Weight Loss[mesh:noexp] OR Physical Examination[mesh:noexp] OR Skin Temperature[mesh:noexp] OR Plethysmography, Impedance[mesh:noexp] OR Water Loss, Insensible[mesh:noexp] OR (Upper Extremity[mesh:noexp] OR Arm[mesh:noexp] AND Muscle Weakness[mesh:noexp]) OR ((thermal[Text Word] OR temperature*[Text Word]) AND (regulat*[Text Word] OR control*[Text Word])) OR (blood flow*[Text Word] AND (skin[Text Word] OR epiderm*[Text Word] OR dermal[Text Word])) OR ((clinical*[Text Word] OR physical[Text Word]) AND (sign*[Text Word] OR symptom*[Text Word] OR exam*[Text Word] OR finding*[Text Word] OR assess*[Text Word])) OR ((weak[Text Word] OR weakness[Text Word]) AND (arm*[Text Word] OR upper limb*[Text Word] OR upper extremit*[Text Word])) OR ((fluid*[Text Word] OR water[Text Word]) AND (balance[Text Word] OR chart*[Text Word] OR record*[Text Word] OR diary[Text Word] OR diaries[Text Word])) OR ((weight[Text Word] OR BMI[Text Word] OR body mass index[Text Word]) AND (loss[Text Word] OR lost[Text Word] OR lose[Text Word] OR losing[Text Word] OR fall*[Text Word] OR reduc*[Text Word] OR chang*[Text Word])) OR (capillar*[Text Word] AND refill*[Text Word]) OR ((epiderm*[Text Word] OR skin*[Text Word] OR transepiderm*[Text Word] OR transderm*[Text Word]) AND (water*[Text Word] OR fluid*[Text Word] OR temperature[Text Word])) OR (thermoregulat*[Text Word] OR thermogenesis[Text Word] OR sweating[Text Word]) OR (impedance*[Text Word] OR bioimpedance[Text Word] OR BIA[Text Word])) AND (Aged[mesh] OR \"65 and over\"[Text Word] OR sixty five years[Text Word] OR nursing home*[Text Word] OR care home*[Text Word] OR aged[Text Word] OR elder*[Text Word] OR \"sixty five and over\"[Text Word] OR old age[Text Word] OR (geriatric[Text Word] OR geriatrics[Text Word]) OR (senile[Text Word] OR senility[Text Word]) OR (older adult*[Text Word] OR older people[Text Word] OR older person*[Text Word] OR older patient*[Text Word] OR older women[Text Word] OR older men[Text Word])) AND (Eye[mesh] OR eye[Text Word] OR eyes[Text Word]) AND (Skin[mesh:noexp] OR Mucous Membrane[mesh:noexp] OR Nasal Mucosa[mesh] OR Respiratory Mucosa[mesh:noexp] OR Tongue[mesh:noexp] OR Axilla[mesh:noexp] OR Mouth Mucosa[mesh:noexp] OR (tongue*[Text Word] OR axilla*[Text Word] OR armpit*[Text Word] OR skin[Text Word]) OR (mucous membrane*[Text Word] OR mucosal tissue*[Text Word] OR mucosa[Text Word])) AND (Hyponatremia[mesh:noexp] OR Dehydration[mesh:noexp] OR Hypokalemia[mesh:noexp] OR Osmolar Concentration[mesh:noexp] OR Water-electrolyte Imbalance[mesh:noexp] OR Water-electrolyte Balance[mesh:noexp] OR Hypernatremia[mesh:noexp] OR Hypovolemia[mesh:noexp] OR h*[Text Word] OR osmolalit*[Text Word] OR hypovol*[Text Word] OR (dehydrat*[Text Word] OR hydrat*[Text Word]) OR ((fluid*[Text Word] OR water[Text Word]) AND (balance*[Text Word] OR imbalance*[Text Word] OR status[Text Word] OR body[Text Word] OR extracellular[Text Word] OR intracellular[Text Word])) OR (plasma*[Text Word] AND (tonicit*[Text Word] OR hypertonic*[Text Word] OR hypotonic*[Text Word])) OR (hypokal*[Text Word] OR hyperkal*[Text Word] OR hyponatr*[Text Word] OR hypernatr*[Text Word])) AND (Blood Pressure[mesh] OR Dizziness[mesh:noexp] OR Urine[mesh:noexp] OR Pulse[mesh:noexp] OR Heart Rate[mesh:noexp] OR ((pulse[Text Word] OR heart[Text Word]) AND (rapid*[Text Word] OR change*[Text Word] OR fast[Text Word])) OR (urin*[Text Word] AND (volume*[Text Word] OR colo*[Text Word] OR dark*[Text Word] OR gravit*[Text Word] OR concentration[Text Word])) OR (pressure*[Text Word] AND (systolic[Text Word] OR diastolic[Text Word])) OR (dizz*[Text Word] OR lightheaded*[Text Word] OR orthostasis[Text Word]))",
+  "generated_query": [
+    "Hyperhydration for prevention of complications in older patients with dehydration in tertiary care",
+    "Effect of body mass on the diagnostic accuracy of physical examination tests for assessing fluid intake in older adults with central venous catheterization",
+    "Challenges and facilitators in delivering optimal care at the End of Life for older patients",
+    "Physical exercise training for type 3 spinal muscular atrophy",
+    "Effect of different body temperatures on the fluid intake to prevent dehydration in older patients",
+    "Prescribed hypocaloric intravenous peripheral veinous cessation (HIPVCC) for the prevention of hyponatremia in older adults with chronic liver disease, kidney disease, or heart failure",
+    "Fluid intake to prevent dehydration in older adults",
+    "Physical exercise training for type 3 spinal cord injury",
+    "Challenges in delivering optimal fluid intake to older patients with cardiac failure",
+    "Changing fluid intake to prevent dehydration in older adults"
+  ]
+}
+{
+  "id": "CD009135",
+  "boolean": "(Leishmaniasis, visceral[mesh] OR Leishmania donovani[mesh] OR Leishmania infantum[mesh] OR Leishmania chagasi[Title/Abstract] OR Visceral leishmania*[Title/Abstract] OR kala-azar[Title/Abstract]) AND (Immunoblotting[mesh:noexp] OR Latex Fixation Tests[mesh:noexp] OR Serological tests[mesh:noexp] OR Enzyme-Linked Immunosorbent Assay[mesh:noexp] OR Reagent kits, diagnostic[mesh:noexp] OR Serodiagnostic test*[Title/Abstract] OR ELISA[Title/Abstract] OR \"K39 antigen, Leishmania\"[All Fields] OR K39 Or rK39[Title/Abstract] OR RDT[Title/Abstract] OR Antigen*[Title/Abstract] OR Lateral flow test[Title/Abstract] OR Strip test*[Title/Abstract] OR Rapid diagnostic test*[Title/Abstract] OR Antibod*[Title/Abstract] OR Direct agglutination test*[Title/Abstract] OR Dipstick*[Title/Abstract] OR \"K26 antigen, Leishmania\"[All Fields])",
+  "generated_query": [
+    "Rapid diagnostic tests for the diagnosis of visceral leishmaniasis in endemic countries",
+    "Rapid diagnostic tests for the diagnosis of leishmaniasis in endemic countries",
+    "Rapid diagnostic tests for diagnosing unspecified fever in endemic countries",
+    "Diagnostic tests for the diagnosis of leishmaniasis in endemic countries",
+    "Rapid diagnostic tests for diagnosing the disease of leishmaniasis in endemic countries",
+    "Rapid diagnostic tests for diagnosis of visceral leishmaniasis in endemic countries",
+    "Rapid diagnostic tests for leishmaniasis in endemic countries"
+  ]
+}
+{
+  "id": "CD008760",
+  "boolean": "(\"Esophageal and Gastric Varices\"[mesh:noexp] OR esophag* varic*[All Fields] OR esophag* varix[All Fields] OR esophago gastric varic*[All Fields] OR esophago gastric varix[All Fields] OR gastro esophag* varic*[All Fields] OR gastro esophag* varix[All Fields] OR gastro oesophag* varic*[All Fields] OR gastro oesophag* varix[All Fields] OR gastroesophag* varic*[All Fields] OR gastroesophag* varix[All Fields] OR gastrooesophag* varic*[All Fields] OR gastrooesophag* varix[All Fields] OR oesophag* varic*[All Fields] OR oesophag* varix[All Fields] OR oesophago gastric varic*[All Fields] OR oesophago gastric varix[All Fields] OR paraesophag* varic*[All Fields] OR paraesophag* varix[All Fields] OR paraoesophag* varic*[All Fields] OR paraoesophag* varix[All Fields] OR periesophag* varic*[All Fields] OR periesophag* varix[All Fields] OR perioesophag* varic*[All Fields] OR perioesophag* varix[All Fields])",
+  "generated_query": [
+    "Towards a better understanding of the pathophysiology of gastric varices",
+    "Gastroesophageal varices",
+    "Prescribed sclerotherapy for treating gastroesophageal varices",
+    "Chest pain with esophageal varices",
+    "Interventions for treating gastroesophageal varices",
+    "Paroesophageal varices",
+    "Gastroesophageal varicose veins",
+    "Gastric varices"
+  ]
+}
+{
+  "id": "CD010775",
+  "boolean": "\"montreal cognitive assessment*\"[all fields] OR \"MoCA\"[all fields]",
+  "generated_query": [
+    "Montreal cognitive assessment (MoCA) for the diagnosis of Alzheimer\u2019s disease dementia",
+    "Montreal Cognitive Assessment (MoCA) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "MoCA (Montreal Cognitive Assessment) for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Montreal Cognitive Assessment (MoCA) for assessing the level of cognitive functioning in people with dementia",
+    "Montreal cognitive assessment for the diagnosis of Alzheimer\u2019s disease dementia",
+    "Montreal Cognitive Assessment (MoCA) for confirmation of the clinical diagnosis of Alzheimer\u2019s disease dementia and other dementias",
+    "Montreal Cognitive Assessment (MoCA) for the diagnosis of dementia within a general practice (primary care) setting",
+    "Montreal cognitive assessment (MoCA) for the diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Montreal Cognitive Assessment (MoCA) for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)"
+  ]
+}
+{
+  "id": "CD009519",
+  "boolean": "(Lung Neoplasms[mesh] OR NSCLC[Title/Abstract] OR ((lung[Title/Abstract] OR lungs[Title/Abstract] OR pulmonary[Title/Abstract]) AND (neoplasm*[Title/Abstract] OR cancer*[Title/Abstract] OR carcinoma*[Title/Abstract] OR adenocarcinoma*[Title/Abstract] OR angiosarcoma*[Title/Abstract] OR chrondosarcoma*[Title/Abstract] OR sarcoma*[Title/Abstract] OR teratoma*[Title/Abstract] OR lymphoma*[Title/Abstract] OR blastoma*[Title/Abstract] OR microcytic*[Title/Abstract] OR tumour*[Title/Abstract] OR tumor*[Title/Abstract]))) AND (Tomography[mesh:noexp] OR Tomography, Emission-Computed[mesh:noexp] OR Positron-Emission Tomography[mesh:noexp] OR Tomography, Spiral Computed[mesh:noexp] OR Fluorodeoxyglucose F18[mesh:noexp] OR (FDG[Text Word] OR Fludeoxyglucose[Text Word] OR fluorodeoxyglucose[Text Word] OR depreotide[Text Word]) OR ((positron[Text Word] OR photon[Text Word] OR scintillation[Text Word]) AND (emission[Text Word] OR tomograph*[Text Word])) OR (CGC[Text Word] OR PET[Text Word] OR SPECT[Text Word] OR NEOTECT[Text Word] OR NEOSPECT[Text Word] OR NEOTEC[Text Word]))",
+  "generated_query": [
+    "Diagnostic accuracy of different imaging modalities following lung cancer screening in lung cancer patients with a lung cancer screening trial of 2019",
+    "18F PET versus CT for assessing tumour resectability in lung cancer patients with incurable lung cancer",
+    "18F-FDG PET for assessing tumour resectability with curative intent in lung cancer",
+    "Fluorine-18 PET for the preoperative locoregional treatment of lung cancer",
+    "Diagnostic accuracy of different positron emission tomography (PET) and magnetic resonance chest tomography (CT) for assessing the resectability with curative intent in lung cancer patients with advanced disease",
+    "FDG-PET versus CT scan for characterising early-stage lung cancer in non-smokers",
+    "Diagnostic accuracy of different imaging modalities following computed tomography (CT) scanning for assessing the resectability with curative intent in lung cancer patients with a central pulmonary lesion",
+    "18F PET for assessing the resectability with curative intent in lung cancer patients with advanced lung cancer",
+    "Chest tomography (CT) versus fludeoxyglucose positron emission tomography (FDG-PET) for assessing the resectability with curative intent in lung cancer",
+    "18F PET for assessing tumour resectability in lung cancer patients with pulmonary tuberculosis"
+  ]
+}
+{
+  "id": "CD009372",
+  "boolean": "(Magnetic Resonance Angiography[mesh:noexp] OR angiography[mesh:noexp] OR cerebral angiography[mesh:noexp] OR Magnetic Resonance Imaging[mesh:noexp] OR Tomography, X-Ray Computed[mesh] AND angiography[mesh:noexp] OR cerebral angiography[mesh:noexp] OR (MRA[Text Word] AND ((magnetic resonance[Text Word] OR MR[Text Word] OR MRI[Text Word] OR NMR[Text Word]) AND (angiogra*[Text Word] OR arteriogra*[Text Word])) AND ((Compute*[Text Word] OR CT[Text Word] OR CAT[Text Word]) AND (angiogra*[Text Word] OR arteriogra*[Text Word])))) AND (\"sensitivity and specificity\"[mesh] OR diagnostic errors[mesh] OR likelihood function[mesh:noexp] OR (sensitiv*[Text Word] OR specificity[Text Word]) OR (predictive[Text Word] AND value*[Text Word]) OR ((false[Text Word] AND positive*[Text Word]) OR (false[Text Word] AND negative*[Text Word])) OR (observer[Text Word] AND variation*[Text Word]) OR (roc[Text Word] AND curve*[Text Word]) OR (likelihood[Text Word] AND ratio*[Text Word])) AND (angiography[mesh:noexp] AND (subtraction technique[mesh:noexp] OR subtraction[Text Word]) OR ((digital subtract*[Text Word] OR catheter[Text Word] OR cerebral[Text Word] OR brain[Text Word]) AND (angiogra*[Text Word] OR arteriogra*[Text Word])) OR (DSA[Text Word] OR IADSA[Text Word])) AND (basal ganglia hemorrhage[mesh] OR intracranial hemorrhages[mesh:noexp] OR cerebral hemorrhage[mesh:noexp] OR intracranial hemorrhage, hypertensive[mesh:noexp] OR cerebrovascular disorders[mesh:noexp] OR ICH[Text Word] OR ((brain*[Text Word] OR cerebr*[Text Word] OR cerebell*[Text Word] OR intracerebral[Text Word] OR intracran*[Text Word] OR parenchymal[Text Word] OR intraparenchymal[Text Word] OR intraventricular[Text Word] OR infratentorial[Text Word] OR supratentorial[Text Word] OR basal gangli*[Text Word] OR putaminal[Text Word] OR putamen[Text Word] OR posterior fossa[Text Word] OR hemispher*[Text Word] OR stroke[Text Word] OR apoplex*[Text Word]) AND (h*[Text Word] OR bleed*[Text Word])))",
+  "generated_query": [
+    "Subtraction angiography versus magnetic resonance angiography for assessing the extent of brain death in adults with brain death",
+    "Magnetic resonance angiography for confirmation of the clinical diagnosis of intracranial hemorrhage",
+    "Diagnostic accuracy of different imaging modalities following stroke in a 12-hour window for confirmation of clinical death",
+    "Subtraction angiography for confirmation of the clinical diagnosis of intracranial hemorrhage in stroke patients with signs of stroke",
+    "Subtraction cerebral angiography for confirmation of the clinical diagnosis of stroke",
+    "Subtractive cerebral angiography for confirmation of the clinical diagnosis of stroke",
+    "Diagnostic accuracy of different cerebral angiography modalities following stroke for confirmation of the clinical diagnosis of stroke",
+    "Subtraction of the cerebral death toll of intracerebral hemorrhage in a tertiary care",
+    "Computed tomography (CT) scanning for confirmation of clinical diagnosis of stroke",
+    "Diagnostic accuracy of different imaging modalities following stroke symptoms"
+  ]
+}
+{
+  "id": "CD010276",
+  "boolean": "(Carcinoma, squamous cell[mesh] OR Precancerous conditions[mesh] OR (tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR carcinogen*[All Fields] OR neoplas*[All Fields] OR malignan*[All Fields] OR metasta*[All Fields] OR dysplas*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields]) OR (pre-cancer*[All Fields] OR precancer*[All Fields] OR premalignan*[All Fields] OR precursor*[All Fields] OR \"lichen planus\"[All Fields] OR leukoplakia[All Fields] OR \"submucous fibrosis\"[All Fields] OR candidiasis[All Fields] OR erythroplakia[All Fields] OR erythroplas*[All Fields] OR erythroleukoplakia[All Fields] OR hyperplas*[All Fields] OR hyperkeratos*[All Fields] OR (actinic[All Fields] AND keratosis[All Fields]))) AND (Cytodiagnosis[mesh:noexp] OR Saliva[mesh:noexp] OR Luminescent Agents[mesh] OR Light[mesh:noexp] OR Acetic acid[mesh:noexp] OR Tomography, Optical Coherence[mesh:noexp] OR Diagnosis, Oral[mesh:noexp] OR Cytophotometry[mesh:noexp] OR Luminescence[mesh] OR Tolonium chloride[mesh:noexp] OR Cytological techniques[mesh:noexp] OR Tumor Markers, Biological[mesh:noexp] OR Spectrometry, fluorescence[mesh:noexp] OR Physical examination[mesh:noexp] OR Fluorescence[mesh:noexp] OR Spectrophotometry[mesh:noexp] OR Mass screening[mesh:noexp] OR Coloring agents[mesh:noexp] OR lumenoscop*[All Fields] OR acetowhite[All Fields] OR (visual*[All Fields] AND (\"light emitting diode\"[All Fields] OR \"blue spectrum\"[All Fields] OR LED[All Fields] OR luminous*[All Fields])) OR ((analy*[All Fields] OR screen*[All Fields] OR test*[All Fields] OR examin*[All Fields]) AND (blood[All Fields] OR saliva[All Fields])) OR (brush*[All Fields] AND (cytodiagnosis[All Fields] OR cytopathology[All Fields])) OR (tissue[All Fields] AND reflect*[All Fields]) OR (brush[All Fields] AND biops*[All Fields]) OR (visual*[All Fields] AND (exam*[All Fields] OR inspect*[All Fields] OR screen*[All Fields])) OR (\"modified liquid based cytology\"[All Fields] OR (exfoliat*[All Fields] AND cytolog*[All Fields])) OR (\"tolonium chloride\"[All Fields] OR \"tolu* blue\"[All Fields] OR \"tolu* b\"[All Fields] OR tblue[All Fields] OR t-blue[All Fields]) OR ((tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR neoplas*[All Fields] OR carcinogen*[All Fields] OR malignan*[All Fields] OR metata*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields]) AND (fluorescen*[All Fields] OR autofluorescen*[All Fields] OR luminescen*[All Fields] OR chemiluminescen*[All Fields])) OR (acetic acid[All Fields] AND (wash*[All Fields] OR rins*[All Fields])) OR ((\"tumo* marker*\"[All Fields] OR \"neoplas* marker*\"[All Fields]) AND (blood[All Fields] OR saliva[All Fields])) OR ((oral*[All Fields] OR mouth*[All Fields]) AND (exam*[All Fields] OR histolog*[All Fields] OR check*[All Fields] OR inspect*[All Fields])) OR (visuali*[All Fields] AND adjunct*[All Fields]) OR (vizilite[All Fields] OR microlux*[All Fields] OR orascoptic[All Fields] OR velscope[All Fields]) OR (\"oral cdx\"[All Fields] OR oralcdx[All Fields]) OR (tolu*[All Fields] AND (dye*[All Fields] OR rins*[All Fields] OR stain*[All Fields] OR wash*[All Fields]))) AND (Oral candidiasis[mesh:noexp] OR Mouth neoplasms[mesh] OR Lichen Planus, Oral[mesh:noexp] OR Oral submucous fibrosis[mesh:noexp] OR (oral*[All Fields] OR mouth*[All Fields] OR bucca*[All Fields] OR \"oral cavit*\"[All Fields] OR lip[All Fields] OR lips[All Fields] OR tongue*[All Fields] OR gingiv*[All Fields] OR palat*[All Fields] OR cheek*[All Fields] OR \"intra oral*\"[All Fields] OR intraoral*[All Fields] OR gum[All Fields] OR gums[All Fields] OR labial*[All Fields] OR (oral[All Fields] AND mucosa*[All Fields]) OR (mouth[All Fields] AND mucosa*[All Fields])) AND (tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR carcinogen*[All Fields] OR neoplas*[All Fields] OR malignan*[All Fields] OR metasta*[All Fields] OR dysplas*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields] OR pre-cancer*[All Fields] OR precancer*[All Fields] OR premalignan*[All Fields] OR precursor*[All Fields] OR \"lichen planus\"[All Fields] OR leukoplakia[All Fields] OR \"submucous fibrosis\"[All Fields] OR candidiasis[All Fields] OR erythroplakia[All Fields] OR erythroplas*[All Fields] OR erythroleukoplakia[All Fields] OR hyperplas*[All Fields] OR hyperkerato*[All Fields] OR (actinic[All Fields] AND keratosis[All Fields])))",
+  "generated_query": [
+    "Cyclodication for prevention of oral cancer in people with chronic liver disease or alcoholic liver disease",
+    "Cyclodestructive procedures for preventing the progression of oral candidiasis",
+    "Cyclodestructive procedures for guttate and chronic plaque psoriasis",
+    "Cyclodentistry for guttate and chronic plaque psoriasis",
+    "Diagnostic accuracy of different visual cytology tests for malignancy in people with oral cancer",
+    "Cyclodactylous procedures for preventing oral cancer in people with pre-malignancy",
+    "Cyclodactyl procedures for prevention of carcinogenesis in patients with chronic respiratory, urinary, or skin and soft tissue",
+    "Cyclodestructive procedures for the prevention of cancer of the tongue in people with precancerous lesions",
+    "Cyclodestructive procedures for treating oral cancer in people with advanced-stage disease",
+    "Increased oral fluid intake to prevent oral cancer in the general population"
+  ]
+}
+{
+  "id": "CD009551",
+  "boolean": "(Aspergillosis[mesh] OR Pulmonary Aspergillosis[mesh] OR Aspergillus[mesh] OR aspergillosis[Title/Abstract] OR aspergillus[Title/Abstract] OR aspergilloma[Title/Abstract] OR \"A.fumigatus\"[Title/Abstract] OR \"A. flavus\"[Title/Abstract] OR \"A. clavatus\"[Title/Abstract] OR \"A. terreus\"[Title/Abstract] OR \"A. niger\"[Title/Abstract]) AND (Nucleic Acid Amplification Techniques[mesh] OR pcr[Title/Abstract] OR \"polymerase chain reaction*\"[Title/Abstract])",
+  "generated_query": [
+    "Pulmonary aspergillosis",
+    "Aspirgillosis in immunocompromised patients",
+    "PCR assay for the diagnosis of aspergillosis in immunocompromised patients",
+    "Pulmonary aspergillosis in immunocompromised adult patients",
+    "Molecular assays for aspergillosis in immunocompromised adults",
+    "Aspergillosis in immunocompromised patients",
+    "Interventions for preventing aspergillosis in immunocompromised patients",
+    "Pulmonary aspergillosis in immunocompromised adults",
+    "Pulmonary aspergillosis in immunocompromised patients"
+  ]
+}
+{
+  "id": "CD012019",
+  "boolean": "(Luteinizing Hormone[mesh] OR Progesterone[mesh] OR matrix metalloproteinase 1[mesh] OR matrix metalloproteinase 2[mesh] OR matrix metalloproteinase 3[mesh] OR matrix metalloproteinase 9[mesh] OR \"tissue inhibitor of metalloproteinase-1\"[mesh] OR \"tissue inhibitor of metalloproteinase-2\"[mesh] OR Glycoproteins[mesh] OR Follistatin[mesh] OR intercellular adhesion molecule-1[mesh] OR selectins[mesh] OR t-lymphocytes[mesh] OR natural killer t-cells[mesh] OR Antibodies, Antiphospholipid[mesh] OR hla antigens[mesh] OR hla-a1 antigen[mesh] OR hla-a2 antigen[mesh] OR Integrins[mesh] OR Cysteine-Rich Protein 61[mesh] OR Vascular Endothelial Growth Factor A[mesh:noexp] OR Vitamin D-Binding Protein[mesh:noexp] OR Cytokines[mesh] OR interleukins[mesh] OR interleukin-1[mesh] OR interleukin-6[mesh] OR interleukin-8[mesh] OR interleukin-12[mesh] OR interleukin-13[mesh] OR Epidermal Growth Factor[mesh] OR Fibroblast Growth Factors[mesh] OR Platelet-Derived Growth Factor[mesh:noexp] OR Keratin-19[mesh:noexp] OR Clinical Laboratory Techniques[mesh] OR Cadherin*[Text Word] OR urinary peptide*[Text Word] OR serum placental protein*[Text Word] OR Fas ligand*[Text Word] OR estrogen receptor*[Text Word] OR MMP*[Text Word] OR Soluble adhesion molecule*[Text Word] OR neural marker*[Text Word] OR cell adhesion molecule*[Text Word] OR soluble intercellular adhesion[Text Word] OR leptin*[Text Word] OR interleukin*[Text Word] OR Total complement level*[Text Word] OR urinary marker*[Text Word] OR serum marker*[Text Word] OR inflammatory marker*[Text Word] OR cyr61[Text Word] OR Follistatin*[Text Word] OR Laboratory Test*[Text Word] OR cytokine*[Text Word] OR Anti-LDL[Text Word] OR proteomic*[Text Word] OR cysteine-rich heparin-binding protein*[Text Word] OR cell surface marker*[Text Word] OR genomic*[Text Word] OR Anti-laminin-1[Text Word] OR Selectin*[Text Word] OR TIMP*[Text Word] OR Anti-Thomsen Friedenreich antigen*[Text Word] OR microRNA*[Text Word] OR Immune cells alteration*[Text Word] OR Anti-transferrin[Text Word] OR CAMs[Text Word] OR sICAM[Text Word] OR scatter factor*[Text Word] OR Osteopontin*[Text Word] OR Antiphospholipid*[Text Word] OR progesterone receptor*[Text Word] OR MTMMP*[Text Word] OR Anti-thyroid[Text Word] OR cytokeratin-19[Text Word] OR Proteolytic enzyme*[Text Word] OR Aromatase P450[Text Word] OR microarray*[Text Word] OR VDBP-Cr[Text Word] OR hepatocyte growth factor[Text Word] OR matrix metalloproteinase*[Text Word] OR urinary VDBP corrected for creatinine expression[Text Word] OR Autoantibodies[Text Word] OR Integrin*[Text Word] OR growth factor*[Text Word] OR sVCAM*[Text Word] OR Anti-endometrial[Text Word] OR Endometrial marker*[Text Word] OR (PP 14[Text Word] OR PP14[Text Word]) OR (Anti-2HSG[Text Word] OR Heremans-Schmidt glycoprotein[Text Word]) OR (biomarker*[Text Word] OR marker*[Text Word]) OR (T helper*[Text Word] OR T supressor*[Text Word] OR T helper*[Text Word]) OR (VDBP[Text Word] OR vitamin D-binding protein*[Text Word]) OR (TGF-b[Text Word] OR transforming growth factor beta[Text Word] OR TGFb[Text Word]) OR (endometri*[Text Word] AND biops*[Text Word]) OR (MCP-I[Text Word] OR monocyte chemoattractant protein-I[Text Word]) OR (VEGF[Text Word] OR vascular endothelial growth factor*[Text Word]) OR (Ca-19-9[Text Word] OR Ca19-9[Text Word] OR cancer antigen 19-9[Text Word]) OR (HLA[Text Word] OR human leucocyte antigen*[Text Word]) OR (EGF[Text Word] OR epidermal growth factor*[Text Word]) OR (Ca-125[Text Word] OR Ca125[Text Word] OR cancer antigen 125[Text Word]) OR (FGF[Text Word] OR fibroblast growth factor*[Text Word]) OR (IGF-I[Text Word] OR insulin-like growth factor*[Text Word] OR IGF1[Text Word]) OR (sEselectin[Text Word] OR soluble E-selectin[Text Word]) OR (ANXA 1[Text Word] OR ANXA1[Text Word]) OR (TNF-a[Text Word] OR tumour necrosis factor*[Text Word]) OR (PDGF[Text Word] OR platelet derived growth factor*[Text Word]) OR (Annexin 1[Text Word] OR Annexin1[Text Word]) OR (EGFR[Text Word] OR epidermal growth factor receptor*[Text Word]) OR (TGF-a[Text Word] OR transforming growth factor alfa[Text Word] OR TGFa[Text Word]) OR (sEcadherin[Text Word] OR soluble E-cadherin[Text Word]) OR (PGP 9*[Text Word] OR PGP9*[Text Word] OR protein gene product*[Text Word]) OR (Luteinizing Hormone*[Text Word] OR LH[Text Word]) OR (MIF[Text Word] OR migration inhibitory factor*[Text Word])) AND (Endometriosis[mesh] OR Endometrio*[Text Word])",
+  "generated_query": [
+    "First trimester serum tests for non-invasive diagnosis of endometriosis",
+    "Prophylactic glycoprotein plasminogen activator inhibition for the non\u2010pharmacological treatment of endometriosis",
+    "Serum endometriosis pain in the abdomen or pelvic pain in the abdomen",
+    "Urinary markers for non-invasive diagnosis of endometriosis",
+    "Non\u2010invasive tests for the non-diagnostic and non-infertility treatment of endometriosis",
+    "Interventions for endometriosis",
+    "Urinary and serum markers for non\u2010invasive diagnostic tests for endometriosis",
+    "Cyclodestructive procedures for treating endometriosis",
+    "Urine tests for endometriosis",
+    "Comparing the quantity and quality of randomised placebo-controlled trials of anticoagulation for people with endometriosis"
+  ]
+}
+{
+  "id": "CD008081",
+  "boolean": "(tomography[mesh:noexp] tomography, optical coherence[mesh:noexp] OR ophthalmoscopy[mesh:noexp] OR OCT[Text Word] OR (optical*[Text Word] AND coherence*[Text Word] AND tomograph*[Text Word])) AND (diabetes mellitus[mesh] OR diabetic retinopathy[mesh:noexp] OR diabetes complications[mesh:noexp] OR diabet*[Text Word] OR retinopath*[Text Word]) AND (macular edema[mesh] OR maculopath*[Text Word] OR (CME[Text Word] OR CSME[Text Word] OR CMO[Text Word] OR CSMO[Text Word]) OR (DMO[Text Word] OR DME[Text Word]) OR (macula*[Text Word] AND oedema[Text Word]) OR (macula*[Text Word] AND edema[Text Word]))",
+  "generated_query": [
+    "Diabetic macular edema (DME) is a complication of type 2 diabetes mellitus",
+    "Diabetic macular edema (DME)",
+    "Optical coherence tomography (OCT) for diabetic macular edema",
+    "Optical coherence tomography (OCT) for the non\u2010invasive diagnosis of type 2 diabetes in people with prediabetes",
+    "Macular oedema in type 3 diabetes",
+    "Optical coherence tomography (OCT) for early diagnosis of type 3 diabetes",
+    "Optical coherence tomography (OCT) for confirmation of laser for type 2 diabetic macular edema",
+    "Diabetic macular edema"
+  ]
+}
+{
+  "id": "CD009185",
+  "boolean": "(c-Reactive Protein[mesh:noexp] OR c-reactive protein[Text Word] OR CRP[Text Word]) AND (Pyelonephritis[mesh:noexp] OR Urinary Tract Infections[mesh:noexp] OR urinary tract infection*[Text Word] OR pyelonephritis[Text Word] OR (UTI[Text Word] OR UTIs[Text Word])) AND (Kidney[mesh:noexp] OR Technetium Tc 99m Dimercaptosuccinic Acid[mesh:noexp] OR Radionuclide Imaging[mesh:noexp] OR Succimer[mesh:noexp] OR DMSA[Text Word] OR dimercaptosuccin*[Text Word] OR scintigra*[Text Word]) AND (Blood Sedimentation[mesh:noexp] OR ESR[Text Word] OR blood sedimentation[Text Word] OR erythrocyte sedimentation rate[Text Word])",
+  "generated_query": [
+    "Dimercaptosuccinic acid scan or ultrasound versus c-reactive protein in screening for urinary tract infections",
+    "Dimercaptosuccinic acid scan or ultrasound versus c-reactive protein scan for the diagnosis of urinary tract infections",
+    "Dimercaptosuccinic acid scan versus ultrasound versus urinary tract infections in community adult women",
+    "C-reactive protein and other urinary tract infections in community adult women",
+    "Dimercaptosuccinic acid scan versus ultrasound versus c-reactive protein scan for the diagnosis of urinary tract infections in community adult women with no significant physical defect in their urinary tract infections",
+    "Dimercaptosuccinic acid scan versus c-reactive protein in screening for urinary tract infections in healthy adult women",
+    "Dimercaptosuccinic acid scan versus ultrasound versus c-reactive protein tests for the diagnosis of urinary tract infections",
+    "Dimercaptosuccinic acid scan versus ultrasound versus fluid intake in the prevention of urinary tract infections",
+    "Dimercaptosuccinic acid scan or ultrasound versus c-reactive protein scan for the non\u2010invasive diagnosis of urinary tract infections in apparently normal adult women with chronic kidney disease",
+    "Dimercaptosuccinic acid scan or ultrasound versus c-reactive protein in the diagnosis of urinary tract infections"
+  ]
+}
+{
+  "id": "CD010339",
+  "boolean": "(\"Choledocholithiasis\"[mesh] OR \"Common Bile Duct Calculi\"[mesh] OR \"Cholelithiasis\"[mesh] OR choledocholithiasis[Title/Abstract] OR cholelithiasis[Title/Abstract]) AND (\"Tomography, X-Ray Computed\"[mesh] OR \"Cholangiopancreatography, Magnetic Resonance\"[mesh] OR \"Liver Function Tests\"[mesh] OR \"Magnetic Resonance Imaging\"[mesh] OR \"Ultrasonography\"[mesh] OR \"Endosonography\"[mesh] OR \"Cholangiography\"[mesh] OR CT[Title/Abstract] OR tomodensitometry[Title/Abstract] OR MRI[Title/Abstract] OR NMRI[Title/Abstract] OR zeugmatogra*[Title/Abstract] OR echogra*[Title/Abstract] OR ultrason*[Title/Abstract] OR ultrasound[Title/Abstract] OR EUS[Title/Abstract] OR cholangiogra*[Title/Abstract] OR cholangio*[Title/Abstract] OR cholangiosco*[Title/Abstract] OR choledochosco*[Title/Abstract] OR ERCP[Title/Abstract] OR MRCP[Title/Abstract] OR liver function test[Title/Abstract] OR liver function tests[Title/Abstract] OR ((computed[Title/Abstract] OR computerised[Title/Abstract] OR computerized[Title/Abstract] OR magneti*[Title/Abstract] OR MR[Title/Abstract] OR NMR[Title/Abstract] OR proton[Title/Abstract]) AND (tomogra*[Title/Abstract] OR scan[Title/Abstract] OR scans[Title/Abstract] OR imaging[Title/Abstract] OR cholangiogra*[Title/Abstract])))",
+  "generated_query": [
+    "Diagnostic accuracy of different ultrasound modalities for common bile duct stones",
+    "Diagnostic accuracy of different imaging modalities following computed tomography (CT) scanning for common bile duct stones",
+    "Diagnostic accuracy of endoscopic common bile duct liver function tests",
+    "Endoscopic ultrasound versus liver function tests for common bile duct stones",
+    "Common bile duct stones",
+    "Diagnostic accuracy of common bile duct stones"
+  ]
+}
+{
+  "id": "CD010653",
+  "boolean": "(Diagnosis[mesh:noexp] OR \"International Classification of Diseases\"[mesh] OR \"Sensitivity and Specificity\"[mesh:noexp] OR \"Diagnostic and Statistical Manual of Mental Disorders[mesh] OR \"Research Diagnostic Criteria\"[All Fields] OR \"present state examination\"[All Fields] OR PSE[All Fields] OR RDC[All Fields] OR bleuler[All Fields] OR \"international pilot study of schizophrenia\"[All Fields] OR IPSS[All Fields] OR \"new haven schizophrenia index\"[All Fields] OR NHSI[All Fields] OR \"operational criteria\"[All Fields] OR ICD[All Fields] OR schneider[All Fields] OR kraepelin[All Fields] OR Feighner[All Fields] OR DSM[All Fields] OR (operation*[All Fields] AND criteri*[All Fields])) AND (Schizophrenia[mesh] OR schizophren*[All Fields])",
+  "generated_query": [
+    "Diagnostic tests for schizophrenia",
+    "Diagnostic criteria for schizophrenia in the DSM\u2010IV\u2010R",
+    "Diagnostic tests for schizophrenia in people with psychotic symptoms",
+    "Diagnostic tests for the diagnosis of schizophrenia in people with psychotic symptoms",
+    "Diagnostic tests for the early diagnosis of schizophrenia in people with psychotic symptoms",
+    "Diagnostic tests for the characterization of schizophrenia",
+    "Diagnostic and statistical manual of mental disorders (DSM-IV)",
+    "Diagnostic tests for the non-psychotic, or paranoid, type of schizophrenia",
+    "Diagnostic tests for assessing the clinical diagnosis of schizophrenia",
+    "Diagnostic tests for the presence of active schizophrenia in adults"
+  ]
+}
+{
+  "id": "CD010542",
+  "boolean": "(Elasticity Imaging Techniques[mesh] OR transient elastograph*[All Fields] OR fibroscan[All Fields]) AND (liver biops*[All Fields] OR Biopsy, Needle[mesh]) AND (liver cirrhosis[mesh] OR (hepatic[All Fields] OR liver[All Fields]) AND (fibrosis[All Fields] OR cirrhosis[All Fields]))",
+  "generated_query": [
+    "Transient elastography for diagnosis of alcoholic liver disease",
+    "Transient elastography for diagnosis of alcoholic liver disease in people with alcoholic liver disease",
+    "Elasticity imaging versus alcoholic fibroscopy for diagnosis of alcoholic liver disease in people with alcoholic alcoholic liver disease",
+    "Diagnostic accuracy of different liver function tests for diagnosis of alcoholic liver disease in people with alcoholic liver disease",
+    "Diagnostic accuracy of different modalities in diagnosis of alcoholic liver disease",
+    "Diagnostic accuracy of elastography for diagnosis of alcoholic liver disease in people with alcoholic liver disease and alcoholic portal vein thrombosis",
+    "Diagnostic accuracy of different liver function tests for diagnosis of alcoholic liver disease in people with alcoholic liver disease alcoholic disease alcoholic liver disease alcoholic liver disease diagnosis alcoholic liver disease treatment",
+    "Transient elastography versus ultrasound versus alcoholic liver function tests for diagnosis of alcoholic liver disease in people with alcoholic liver disease",
+    "Elastography for diagnosis of alcoholic liver disease in people with alcoholic liver disease in people with alcoholic liver disease",
+    "Elastography for diagnosis of alcoholic liver disease"
+  ]
+}
+{
+  "id": "CD010896",
+  "boolean": "(Tomography, Emission-Computed[mesh:noexp] OR Tomography, Emission-Computed, Single-Photon[mesh:noexp] OR SPECT[Title/Abstract] OR SPET[Title/Abstract] OR single photon emission tomography[Title/Abstract] OR single photon emission computed tomography[Title/Abstract] OR \"SPECT/CT\"[Title/Abstract]) AND (Delirium, Dementia, Amnestic, Cognitive Disorders[mesh:noexp] OR Dementia[mesh] OR Frontotemporal Lobar Degeneration[mesh:noexp] OR Primary Progressive Nonfluent Aphasia[mesh:noexp] OR Delirium[mesh:noexp] OR Aphasia, Primary Progressive[mesh:noexp] OR dement*[Title/Abstract] OR \"benign senescent forgetfulness\"[Title/Abstract] OR alzheimer*[Title/Abstract] OR \"primary progressive aphasia\"[Title/Abstract] OR \"Frontotemporal lobar degeneration\"[Title/Abstract] OR \"progressive non-fluent aphasia\"[Title/Abstract] OR (chronic[Title/Abstract] AND cerebrovascular[Title/Abstract]) OR (\"organic brain disease\"[Title/Abstract] OR \"organic brain syndrome\"[Title/Abstract]) OR (cerebr*[Title/Abstract] AND deteriorat*[Title/Abstract]) OR (cerebral*[Title/Abstract] AND insufficient*[Title/Abstract]) OR (pick*[Title/Abstract] AND disease[Title/Abstract]) OR (lewy*[Title/Abstract] AND bod*[Title/Abstract]) OR (FTD[Title/Abstract] OR FTLD[Title/Abstract]))",
+  "generated_query": [
+    "Diagnostic tests for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Diagnostic tests for the early diagnosis of Alzheimer\u2019s disease dementia in people with mild cognitive impairment (MCI)",
+    "Tomography for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Cholinesterase inhibitors for the treatment of Alzheimer\u2019s disease dementia",
+    "Challenges in delivering optimal care at the End of Life for patients with frontotemporal dementia",
+    "Challenges and facilitators in delivering optimal care at the End of Life for people with dementia and other cognitive impairments",
+    "Tomography for the non\u2010invasive diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Cholesterol lowering for the prevention of dementia in people with mild cognitive impairment (MCI)",
+    "Challenges in delivering optimal care at the End of Life for people with dementia and other chronic illnesses",
+    "Cholinergic neurons in the brain of people with Alzheimer\u2019s disease"
+  ]
+}
+{
+  "id": "CD010023",
+  "boolean": "(Magnetic Resonance Imaging[mesh] OR (MRI[Text Word] OR MRIs[Text Word] OR NMRI[Text Word]) OR (diffusion weighted imag*[Text Word] OR DWI[Text Word] OR T2-weighted imag*[Text Word]) OR ((magnetic resonance[Text Word] OR MR[Text Word] OR NMR[Text Word]) AND (imag*[Text Word] OR tomograph*[Text Word] OR scan*[Text Word]))) AND (Radionuclide Imaging[mesh:noexp] OR scintiscan*[Text Word] OR (scintigra*[Text Word] OR radioscintigra*[Text Word]) OR (bone[Text Word] AND scan[Text Word])) AND (Tomography, X-Ray Computed[mesh] OR micro-computed tomog*[Text Word] OR (comput*[Text Word] AND tomograph*[Text Word]) OR (CT[Text Word] OR CAT[Text Word]))",
+  "generated_query": [
+    "Magnetic resonance imaging versus ultrasound versus bone scan for assessing the resectability with curative intent in pancreatic cancer",
+    "Magnetic resonance imaging versus liver function tests for assessing bone mineral density in people with type 2 diabetes",
+    "Magnetic resonance imaging versus computed tomography (CT) for assessing the resectability with curative intent in pancreatic and periampullary cancer",
+    "Differentiating between focal low\u2010grade painless muscle pain in adults",
+    "Magnetic resonance imaging versus computed tomography (CT) for assessing the resectability with curative intent in lung cancer",
+    "Differentiation of focal low\u2010grade periampullary cancer",
+    "Magnetic resonance imaging (MRI) versus bone scan for assessing the resectability with curative intent in pancreatic and periampullary cancer",
+    "Different types of magnetic resonance imaging (MRI) for the non-invasive diagnosis of cancer",
+    "Magnetic resonance imaging versus x\u2010ray computed tomography for assessing the quantity and quality of randomised placebo-controlled trials of antibiotics for acute respiratory, urinary, and skin and soft tissue infections",
+    "Magnetic resonance imaging versus liver function tests for the non-invasive diagnosis of Alzheimer\u2019s disease dementia in people with mild cognitive impairment (MCI)"
+  ]
+}
+{
+  "id": "CD010772",
+  "boolean": "(IQCODE[tiab]) OR (\"informant questionnaire on cognitive decline in the elderly\"[tiab]) OR (\"IQ code\"[tiab]) OR ((\"informant* questionnair*\"[tiab] AND (dement*[tiab] OR screening[tiab]))) OR ((\"screening test*\"[tiab] AND (dement*[tiab] OR alzheimer*[tiab])))",
+  "generated_query": [
+    "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) for the diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE) for the diagnosis of dementia within a general practice (primary care) setting",
+    "Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE)"
+  ]
+}
+{
+  "id": "CD011145",
+  "boolean": "(MMSE*[tiab]) OR (sMMSE[tiab]) OR (Folstein*[tiab]) OR (MiniMental[tiab]) OR (\"mini mental stat*\"[tiab])",
+  "generated_query": [
+    "Mini-Mental State Examination (MMSE) for the diagnosis of dementia within a general practice (primary care) setting",
+    "Mini-mental state examination (MMSE) for assessing the cognitive function of older patients with dementia",
+    "Mini-Mental State Examination (MMSE) for the assessment of cognitive function in people with Alzheimer\u2019s disease dementia and other dementias",
+    "Mini-mental state examination (MMSE) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini-Mental State Examination (MMSE) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini-mental state examination (MMSE) for diagnosis of Alzheimer's disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini\u2010mental state examination (MMSE) for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "The mini-mental state examination (MMSE) for assessing the severity of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini-mental state examination (MMSE) for assessing the degree of cognitive impairment in people with Alzheimer\u2019s disease",
+    "Mini-Mental Statement Examination (MMSE) for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)"
+  ]
+}
+{
+  "id": "CD010705",
+  "boolean": "((Mycobacterium tuberculosis[mesh:noexp] OR Tuberculosis, Pulmonary[mesh] OR Tuberculosis, Multidrug-Resistant[mesh] OR TB[Title/Abstract] OR tuberculosis[Title/Abstract] OR MDR-TB[Title/Abstract] OR XDR-TB[Title/Abstract])) AND (MTBDR*[tiab] OR (Genotype MTBDR*[tiab]))",
+  "generated_query": [
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis and/or pulmonary tuberculosis in HIV-positive adults",
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis and the two major tuberculosis infections, pulmonary and tuberculosis",
+    "Tuberculosis and pulmonary tuberculosis in HIV-positive adults",
+    "Xpert\u00ae MTB/RIF assay for tuberculosis and pulmonary tuberculosis in HIV-positive adults",
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis and its potential for community transmission",
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis in adults",
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis and its potential for community transmission in a general population",
+    "Xpert\u00ae MTB/RIF assay for pulmonary tuberculosis in HIV-positive adults"
+  ]
+}
+{
+  "id": "CD010633",
+  "boolean": "(Lewy Body Disease[mesh:noexp] OR Lewy Bodies[mesh:noexp] OR dement*[Title/Abstract] OR (LDB[Title/Abstract] OR DLB[Title/Abstract] OR LBD[Title/Abstract]) OR (lewy*[Title/Abstract] AND bod*[Title/Abstract])) AND (Tomography, Emission-Computed, Single-Photon[mesh:noexp] OR Dopamine Plasma Membrane Transport Proteins[mesh:noexp] OR Dopaminergic Neurons[mesh:noexp] OR \"[11C]cocaine\"[Title/Abstract] OR SPET[Title/Abstract] OR \"single photon emission tomography\"[Title/Abstract] OR FP-CIT[Title/Abstract] OR \"123I-FP-CIT\"[Title/Abstract] OR SPECT[Title/Abstract] OR \"[99mTc]TRODAT-1\"[Title/Abstract] OR \"[123I]PE2I\"[Title/Abstract] OR \"[123I]altropane\"[Title/Abstract] OR \"[3H]WIN\"[Title/Abstract] OR \"[11C]dMP\"[Title/Abstract] OR DAT scan*[Title/Abstract] OR \"[11C]FE-CIT\"[Title/Abstract] OR \"dopamine transporter\"[Title/Abstract] OR DaTSCAN[Title/Abstract] OR \"[11C]altropane\"[Title/Abstract] OR \"single photon emission computed tomography\"[Title/Abstract] OR (\"123I-\u03b2-CIT\"[Title/Abstract] OR \"[123I]\u03b2-CIT\"[Title/Abstract] OR \"[123I]beta-CIT\"[Title/Abstract]) OR (\"[11C]/[18F]beta-CFT\"[Title/Abstract] OR \"[11C]/[18F]\u03b2-CFT\"[Title/Abstract]))",
+  "generated_query": [
+    "11C-FET for the non-invasive diagnostic of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment",
+    "11C-FDG PET for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C-FDG PET and 123I-beta-CIT for characterising the clinical symptoms and signs of Alzheimer\u2019s disease dementia and other dementias",
+    "123I-\u03b2-CIT and 11C-FE-CIT for the non-invasive diagnostic assessment of dementia in people with mild cognitive impairment (MCI)",
+    "11C-DMPPT for the non-invasive diagnostic tests for Lewy body disease",
+    "11C PET with 123I PET for early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "123I-\u03b2-CIT-PET for the early diagnosis of lewy body disease dementia",
+    "123I-beta-CIT and [11C]dMP and their use in the non-invasive diagnosis of Lewy Body Disease",
+    "11C-FDG PET and 123I-FP-CIT SPECT for the early diagnosis of dementia in people with mild cognitive impairment (MCI)",
+    "11C-FDG PET with 123I-\u03b2-CIT for the early diagnosis of Lewy body disease dementia and other dementias in people with mild cognitive impairment (MCI)"
+  ]
+}
+{
+  "id": "CD010173",
+  "boolean": "(Carcinoma, squamous cell[mesh] OR Precancerous conditions[mesh] OR (tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR carcinogen*[All Fields] OR neoplas*[All Fields] OR malignan*[All Fields] OR metasta*[All Fields] OR dysplas*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields]) OR (pre-cancer*[All Fields] OR precancer*[All Fields] OR premalignan*[All Fields] OR precursor*[All Fields] OR \"lichen planus\"[All Fields] OR leukoplakia[All Fields] OR \"submucous fibrosis\"[All Fields] OR candidiasis[All Fields] OR erythroplakia[All Fields] OR erythroplas*[All Fields] OR erythroleukoplakia[All Fields] OR hyperplas*[All Fields] OR hyperkeratos*[All Fields] OR (actinic[All Fields] AND keratosis[All Fields]))) AND (Cytodiagnosis[mesh:noexp] OR Saliva[mesh:noexp] OR Luminescent Agents[mesh] OR Light[mesh:noexp] OR Acetic acid[mesh:noexp] OR Tomography, Optical Coherence[mesh:noexp] OR Diagnosis, Oral[mesh:noexp] OR Cytophotometry[mesh:noexp] OR Luminescence[mesh] OR Tolonium chloride[mesh:noexp] OR Cytological techniques[mesh:noexp] OR Tumor Markers, Biological[mesh:noexp] OR Spectrometry, fluorescence[mesh:noexp] OR Physical examination[mesh:noexp] OR Fluorescence[mesh:noexp] OR Spectrophotometry[mesh:noexp] OR Mass screening[mesh:noexp] OR Coloring agents[mesh:noexp] OR lumenoscop*[All Fields] OR acetowhite[All Fields] OR (visual*[All Fields] AND (\"light emitting diode\"[All Fields] OR \"blue spectrum\"[All Fields] OR LED[All Fields] OR luminous*[All Fields])) OR ((analy*[All Fields] OR screen*[All Fields] OR test*[All Fields] OR examin*[All Fields]) AND (blood[All Fields] OR saliva[All Fields])) OR (brush*[All Fields] AND (cytodiagnosis[All Fields] OR cytopathology[All Fields])) OR (tissue[All Fields] AND reflect*[All Fields]) OR (brush[All Fields] AND biops*[All Fields]) OR (visual*[All Fields] AND (exam*[All Fields] OR inspect*[All Fields] OR screen*[All Fields])) OR (\"modified liquid based cytology\"[All Fields] OR (exfoliat*[All Fields] AND cytolog*[All Fields])) OR (\"tolonium chloride\"[All Fields] OR \"tolu* blue\"[All Fields] OR \"tolu* b\"[All Fields] OR tblue[All Fields] OR t-blue[All Fields]) OR ((tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR neoplas*[All Fields] OR carcinogen*[All Fields] OR malignan*[All Fields] OR metata*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields]) AND (fluorescen*[All Fields] OR autofluorescen*[All Fields] OR luminescen*[All Fields] OR chemiluminescen*[All Fields])) OR (acetic acid[All Fields] AND (wash*[All Fields] OR rins*[All Fields])) OR ((\"tumo* marker*\"[All Fields] OR \"neoplas* marker*\"[All Fields]) AND (blood[All Fields] OR saliva[All Fields])) OR ((oral*[All Fields] OR mouth*[All Fields]) AND (exam*[All Fields] OR histolog*[All Fields] OR check*[All Fields] OR inspect*[All Fields])) OR (visuali*[All Fields] AND adjunct*[All Fields]) OR (vizilite[All Fields] OR microlux*[All Fields] OR orascoptic[All Fields] OR velscope[All Fields]) OR (\"oral cdx\"[All Fields] OR oralcdx[All Fields]) OR (tolu*[All Fields] AND (dye*[All Fields] OR rins*[All Fields] OR stain*[All Fields] OR wash*[All Fields]))) AND (Mouth neoplasms[mesh] OR Lichen Planus, Oral[mesh:noexp] OR Oral submucous fibrosis[mesh:noexp] OR Oral candidiasis[mesh:noexp] OR (oral*[All Fields] OR mouth*[All Fields] OR bucca*[All Fields] OR \"oral cavit*\"[All Fields] OR lip[All Fields] OR lips[All Fields] OR tongue*[All Fields] OR gingiv*[All Fields] OR palat*[All Fields] OR cheek*[All Fields] OR \"intra oral*\"[All Fields] OR intraoral*[All Fields] OR gum[All Fields] OR gums[All Fields] OR labial*[All Fields] OR (oral[All Fields] AND mucosa*[All Fields]) OR (mouth[All Fields] AND mucosa*[All Fields])) AND (tumor*[All Fields] OR tumour*[All Fields] OR cancer*[All Fields] OR carcinoma*[All Fields] OR carcinogen*[All Fields] OR neoplas*[All Fields] OR malignan*[All Fields] OR metasta*[All Fields] OR dysplas*[All Fields] OR lesion*[All Fields] OR ulcer*[All Fields] OR pre-cancer*[All Fields] OR precancer*[All Fields] OR premalignan*[All Fields] OR precursor*[All Fields] OR \"lichen planus\"[All Fields] OR leukoplakia[All Fields] OR \"submucous fibrosis\"[All Fields] OR candidiasis[All Fields] OR erythroplakia[All Fields] OR erythroplas*[All Fields] OR erythroleukoplakia[All Fields] OR hyperplas*[All Fields] OR hyperkerato*[All Fields] OR (actinic[All Fields] AND keratosis[All Fields])))",
+  "generated_query": [
+    "Cytodifferentiated screening for detecting precancerous lesions in people with oral cancer",
+    "Cyclodestructive procedures for precancerous lesions of the oral cavity",
+    "Cyclodestructive procedures for preventing oral cancer",
+    "Cyclodestructive procedures for treating oral cancer",
+    "Cyclodic procedures for preventing oral cancer",
+    "Cyclodactylic procedures for guttate and chronic plaque psoriasis",
+    "Cyclodestructive procedures for treating guttate and chronic plaque psoriasis",
+    "Cyclodentric procedures for preventing oral cancer in people with chronic guttate or chronic plaque psoriasis",
+    "Cyclodialytic procedures for guttate and chronic plaque psoriasis",
+    "Cyclodicytive procedures for preventing cancer in apparently healthy adults"
+  ]
+}
+{
+  "id": "CD009786",
+  "boolean": "(Ovarian Neoplasms[mesh] OR Fallopian Tube Neoplasms[mesh:noexp] OR ((ovar*[All Fields] OR fallopian tube*[All Fields]) AND (cancer*[All Fields] OR tumor*[All Fields] OR tumour*[All Fields] OR adenocarcinoma*[All Fields] OR carcino*[All Fields] OR cystadenocarcinoma*[All Fields] OR choriocarcinoma*[All Fields] OR malignan*[All Fields] OR neoplas*[All Fields] OR metasta*[All Fields] OR mass[All Fields] OR masses[All Fields])) OR (thecoma*[All Fields] OR luteoma*[All Fields])) AND (Laparoscopy[mesh] OR laparoscop*[All Fields] OR celioscop*[All Fields] OR peritoneoscop*[All Fields] OR abdominoscop*[All Fields])",
+  "generated_query": [
+    "Diagnostic accuracy of laparoscopy after computed tomography (CT) scanning for assessing tumour resectability in advanced epithelial ovarian/fallopian/primary/testicular/liver/metastasis",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing the resectability with curative intent in ovarian/fallopian/primary/fallopian tube/and/or/primary caregiver/ovarian/fallopian/primary/tube/cancer/and/or/fallopian/tube/primary/caregiver/cancer/with/curative/intent/in/ovarian/fallopian/primary/caregiver/cancer/with/curative/intent/in/primary/caregiver/cancer/with/curative/intent/in/fallopian/tube/primary/caregiver/cancer/with/curative/intent/in/ovarian/fallopian/tube/primary/caregiver/cancer/with/curative/intent/in/primary/caregiver/cancer/with/curative/intent/in/ovarian/primary/caregiver/cancer/with/curative/intent/in/ovarian/primary/caregiver/cancer/with/curative/intent/in/primary/",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing tumour resectability in advanced epithelial ovarian/fallopian/primary/Hodgkin's/Lymphoma/Mesothelioma",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing tumour resectability in advanced epithelial ovarian/fallopian/primary/melanoma",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing the resectability with curative intent in women with advanced ovarian/fallopian/primary peritoneal/fallopian tube/colon/rectal cancer",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing the resectability with curative intent in advanced epithelial ovarian/fallopian/primary/pancreatic/and/or",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing tumour resectability in advanced epithelial ovarian/fallopian tube/primary peritoneal/ and/or lung/pleural/ or cervical cancer",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing the resectability with curative intent in pancreatic cancer",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing tumour resectability in advanced epithelial ovarian/fallopian/primary/lung/blood/or stomach cancer",
+    "Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for assessing the resectability with curative intent in advanced epithelial ovarian/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile duct/fallopian/primary/liver/bile"
+  ]
+}
+{
+  "id": "CD010386",
+  "boolean": "(Positron-Emission Tomography[mesh:noexp] OR \"C Pittsburgh\"[Title/Abstract] OR \"amyloid deposition\"[Title/Abstract] OR \"[11C]PIB\"[Title/Abstract] OR \"Pittsburgh compound B\"[Title/Abstract] OR \"amyloid ligand*\"[Title/Abstract] OR (PiB[Title/Abstract] OR PIB[Title/Abstract]) OR (PIB-PET[Title/Abstract] OR PET-PIB[Title/Abstract]) OR (\"positron emission tomography\"[Title/Abstract] OR (PET[Title/Abstract] AND (scan*[Title/Abstract] OR imag*[Title/Abstract])))) AND (dementia[mesh] OR LCD[Title/Abstract] OR MNCD[Title/Abstract] OR MCI[Title/Abstract] OR CIND[Title/Abstract] OR AAMI[Title/Abstract] OR MCD[Title/Abstract] OR ARCD[Title/Abstract] OR BSF[Title/Abstract] OR QD[Title/Abstract] OR AACD[Title/Abstract] OR ACMI[Title/Abstract] OR SMC[Title/Abstract] OR (\"CDR 0.5\"[Title/Abstract] OR \"clinical dementia rating scale 0.5\"[Title/Abstract] OR \"0.5 CDR\"[Title/Abstract]) OR (nMCI[Title/Abstract] OR aMCI[Title/Abstract] OR mMCI[Title/Abstract]) OR (\"GDS 3\"[Title/Abstract] OR \"3 GDS\"[Title/Abstract]) OR ((cognit*[Title/Abstract] OR memory[Title/Abstract] OR cerebr*[Title/Abstract] OR mental*[Title/Abstract]) AND (declin*[Title/Abstract] OR impair*[Title/Abstract] OR los*[Title/Abstract] OR deteriorat*[Title/Abstract] OR degenerat*[Title/Abstract] OR complain*[Title/Abstract] OR disturb*[Title/Abstract] OR disorder*[Title/Abstract])) OR (\"N-MCI\"[Title/Abstract] OR \"A-MCI\"[Title/Abstract] OR \"M-MCI\"[Title/Abstract]) OR (alzheimer*[Title/Abstract] OR dement*[Title/Abstract] OR AD[Title/Abstract] OR lewy*[Title/Abstract] OR DLB[Title/Abstract] OR LBD[Title/Abstract]) OR (\"global deterioration scale\"[Title/Abstract] AND \"stage 3\"[Title/Abstract]))",
+  "generated_query": [
+    "11C-Pittsburgh compound B (PiB) PET with the clinical dementia rating scale (CDR) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C-Pittsburgh Compound B (PiB) PET with and without other cognitive tests for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C positron emission tomography (11C PET) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C PET for early diagnosis of Alzheimer\u2019s disease dementia",
+    "11C PET versus 11C PET and 18F PET for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C positron emission tomography (PET) and 11C PET/magnetic resonance cholesterol (MR) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "11C-Pittsburgh compound B (PiB) positron emission tomography (PET) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Diagnostic accuracy of different types of imaging modalities following the clinical diagnosis of Alzheimer\u2019s disease",
+    "11C PET with a GDS 3 for the early diagnosis of Alzheimer\u2019s disease dementia"
+  ]
+}
+{
+  "id": "CD010783",
+  "boolean": "MMSE*[Tiab] OR OR sMMSE[Tiab] OR Folstein*[Tiab] OR MiniMental[Tiab] OR \"mini mental stat*\"[Tiab]",
+  "generated_query": [
+    "Mini-mental state examination (MMSE) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini\u2010mental state examination (MMSE) for assessing cognitive function in patients with dementia",
+    "Challenges and facilitators in delivering optimal care at the End of Life for older patients",
+    "MMSE for the diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Mini-mental state examination (MMSE) for the diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Challenges in delivering optimal care at the End of Life for older patients",
+    "Mini-mental state examination (MMSE) for the assessment of dementia in people with Alzheimer\u2019s disease",
+    "Mini-Mental State Examination (MMSE) for the assessment of dementia in people with memory loss",
+    "Mini-Mental Statement Examination (MMSE) for Alzheimer\u2019s disease dementia",
+    "Minimum mental state examination (MMSE) for the diagnosis of Alzheimer\u2019s disease dementia"
+  ]
+}
+{
+  "id": "CD010860",
+  "boolean": "(MCE[Tiab] and (cognit*[Tiab] OR dement*[Tiab] OR screen*[Tiab] OR Alzheimer[Tiab])) OR minicog[Tiab] OR mini-Cog[Tiab]",
+  "generated_query": [
+    "Mini-Cog for the diagnosis of Alzheimer\u2019s disease dementia",
+    "Mini\u2010Cog testing for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini\u2010Cog for the diagnosis of Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Minicog cognitive screening for Alzheimer\u2019s disease dementia within a general practice (primary care) setting",
+    "Mini\u2010Cog for the diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini-Cog cognitive screen for Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Minimal cognitive examination (MCE) for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)",
+    "Mini-Cog cognitive screening for Alzheimer\u2019s disease dementia in people with mild cognitive impairment (MCI)",
+    "Mini-Cog test for the early diagnosis of Alzheimer\u2019s disease dementia and other dementias in people with mild cognitive impairment (MCI)"
+  ]
+}
+{
+  "id": "CD009579",
+  "boolean": "(Antigens, Helminth[mesh] OR Glycoproteins[mesh] OR Helminth Proteins[mesh] OR Reagent Strips[mesh] OR Schistosoma haematobium[mesh] OR Enzyme-Linked Immunosorbent Assay[mesh] OR Antibodies, Monoclonal[mesh] OR hematuria[mesh:noexp] OR proteinuria[mesh] OR Immunoenzyme Techniques[mesh] OR Schistosoma mansoni[mesh] OR h*[Title/Abstract] OR elisa[Title/Abstract] OR albuminuria[Title/Abstract] OR dipstick[All Fields] OR CCA[Title/Abstract] OR leucocyturia[Title/Abstract] OR CAA[Title/Abstract] OR leukocyturia[Title/Abstract] OR proteinuria[Title/Abstract] OR haemastix[Title/Abstract] OR eia[Title/Abstract] OR \"schistosoma haematobium\"[Title/Abstract] OR urinalysis[Title/Abstract] OR \"schistosoma mansoni\"[Title/Abstract] OR (reagent[Title/Abstract] AND strip*[Title/Abstract]) OR (test[Title/Abstract] AND strip*[Title/Abstract]) OR (anodic[Title/Abstract] AND antigen*[Title/Abstract]) OR (cathodic[Title/Abstract] AND antigen*[Title/Abstract])) AND (schistosomiasis[mesh:noexp] OR schistosomiasis haematobia[mesh:noexp] OR schistosomiasis mansoni[mesh:noexp] OR schistosomiasis[Title/Abstract] OR bilharzia*[Title/Abstract])",
+  "generated_query": [
+    "Cathodic antigen reagent strip for diagnosis of schistosomiasis in endemic countries",
+    "Diagnostic accuracy of a 14-day stool sample for diagnosis of Schistosomiasis in endemic countries",
+    "Diagnostic tests for diagnosing Schistosoma haematobium infection in endemic countries",
+    "Dipstick test for diagnosis of schistosomiasis in endemic countries",
+    "A diagnostic assay for detecting Schistosomiasis in endemic countries",
+    "Urinalysis for the diagnosis of schistosomiasis in endemic countries",
+    "Diagnostic accuracy of various tests for the diagnosis of schistosomiasis in endemic countries",
+    "Diagnostic tests for diagnosing Schistosoma mansoni infection in endemic countries",
+    "Urine tests for diagnosis of Schistosomiasis in endemic countries",
+    "Schistosomiasis in endemic countries"
+  ]
+}
+{
+  "id": "CD009925",
+  "boolean": "(chorionic villi sampling[mesh:noexp] OR INHIBINS[mesh] OR alpha-Fetoproteins[mesh] OR Chorionic Gonadotropin, beta Subunit, Human[mesh] OR Area under curve[mesh:noexp] OR amniocentesis[mesh:noexp] OR false positive reactions[mesh] OR Prenatal Diagnosis[mesh] OR false negative reactions[mesh] OR Pregnancy-Associated Plasma Protein-A[mesh] OR ROC curve[mesh:noexp] OR papp-a[All Fields] OR human chorionic gonadotropin[All Fields] OR inhibin a[All Fields] OR diagnos*[Title/Abstract] OR accura*[All Fields] OR AUC[All Fields] OR ultrasound[All Fields] OR marker*[All Fields] OR tricuspid regurgitation[All Fields] OR specific*[All Fields] OR \"reproducibility of results\"[All Fields] OR predict*[All Fields] OR sensitiv*[All Fields] OR reference standard*[All Fields] OR afp[All Fields] OR screen*[All Fields] OR detect*[All Fields] OR reference value*[All Fields] OR pregnancy associated plasma protein a[All Fields] OR ue3[All Fields] OR chorion* vill* sampling[All Fields] OR ROC[All Fields] OR nuchal translucency[All Fields] OR ductus venosus[All Fields] OR likelihood ratio*[All Fields] OR alphafetoprotein*[All Fields] OR alpha-fetoprotein*[All Fields] OR nasal bone[All Fields] OR (b-hcg[All Fields] OR bhcg[All Fields]) OR (unconjugated estriol[All Fields] OR unconjugated oestriol[All Fields]) OR (false positive*[All Fields] OR false negative*[All Fields])) AND (Aneuploidy[mesh:noexp] OR Mosaicism[mesh:noexp] OR Down Syndrome[mesh] OR down syndrome[All Fields] OR trisomy 21[All Fields] OR aneuploidy[All Fields] OR mosaicism[All Fields] OR downs syndrome[All Fields])",
+  "generated_query": [
+    "Urine tests for Down's syndrome screening in the general population",
+    "A first trimester serum tests for Down's syndrome screening",
+    "Down's syndrome screening with first trimester serum tests for Down's syndrome screening",
+    "1st trimester serum tests for Down's syndrome screening",
+    "Urine tests for Down's syndrome screening",
+    "Chorionic villi sampling for Down's syndrome screening"
+  ]
+}
